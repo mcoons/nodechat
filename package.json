@@ -1,0 +1,14 @@
+{
+    "name": "node-socketio",
+    "version": "0.0.1",
+    "description": "chat with node, express and socket.io",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+     "dependencies": {
+        "ejs": "^2.6.1",
+        "express": "^4.16.4",
+        "socket.io": "^2.1.1"
+    }
+}
